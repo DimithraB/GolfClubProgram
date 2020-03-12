@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="10221efa-adcd-4e5a-bffd-17513378fdaf" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1Z1ON8q9hLBDlxCfyoA5rxD6GB0" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.GolfClub">
+    <configuration name="GolfClub" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GolfClub" />
+      <module name="Assignment01" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="Assignment01" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.GolfClub" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.GolfClub" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="10221efa-adcd-4e5a-bffd-17513378fdaf" name="Default Changelist" comment="" />
+      <created>1561211227161</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1561211227161</updated>
+      <workItem from="1561211230997" duration="7139000" />
+      <workItem from="1561260880720" duration="2389000" />
+      <workItem from="1561263307158" duration="15000" />
+      <workItem from="1561265040667" duration="4011000" />
+      <workItem from="1561273496951" duration="717000" />
+      <workItem from="1561363296847" duration="773000" />
+      <workItem from="1561364720241" duration="103000" />
+      <workItem from="1561364845689" duration="2105000" />
+      <workItem from="1561388977473" duration="2874000" />
+      <workItem from="1561466633060" duration="356000" />
+      <workItem from="1561472476443" duration="4963000" />
+      <workItem from="1561526132037" duration="1576000" />
+      <workItem from="1561528661373" duration="7110000" />
+      <workItem from="1561565357027" duration="5011000" />
+      <workItem from="1561610326854" duration="10644000" />
+      <workItem from="1561642043868" duration="13584000" />
+      <workItem from="1561692600577" duration="7457000" />
+      <workItem from="1562079435169" duration="574000" />
+      <workItem from="1562141160531" duration="1356000" />
+      <workItem from="1562217557798" duration="34000" />
+      <workItem from="1562389442914" duration="13437000" />
+      <workItem from="1562472027014" duration="12713000" />
+      <workItem from="1562505749068" duration="4562000" />
+      <workItem from="1562566168859" duration="1192000" />
+      <workItem from="1584003101350" duration="96000" />
+      <workItem from="1584003329556" duration="36000" />
+      <workItem from="1584003452625" duration="18000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
